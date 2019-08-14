@@ -1,6 +1,6 @@
 <navbar class="navbar navbar-expand-md navbar-dark bg-dark">
   <div class="container">
-    <a href="/home" class="navbar-brand">Swift</a>
+    <a href="/" class="navbar-brand">Swift</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-label="navbar toggle">
       <span class="navbar-toggler-icon"></span>
     </button>
